@@ -1,0 +1,173 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "005Hn00000JKgf4IAD",
+      "createdByName": "Hemanth Tanguturi",
+      "createdDate": "2025-04-10T12:39:49.000Z",
+      "fileName": "sites/Do_Not_Use_SDO_Commerce_for_B2B2C.site",
+      "fullName": "Do_Not_Use_SDO_Commerce_for_B2B2C",
+      "id": "0DMHn000000E5VMOA0",
+      "lastModifiedById": "005Hn00000JKgf4IAD",
+      "lastModifiedByName": "Hemanth Tanguturi",
+      "lastModifiedDate": "2025-04-10T13:47:46.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "005Hn00000JKgf4IAD",
+      "createdByName": "Hemanth Tanguturi",
+      "createdDate": "2025-04-10T12:39:49.000Z",
+      "fileName": "sites/OldProf2.site",
+      "fullName": "OldProf2",
+      "id": "0DMHn000000E5V4OAK",
+      "lastModifiedById": "005Hn00000JKgf4IAD",
+      "lastModifiedByName": "Hemanth Tanguturi",
+      "lastModifiedDate": "2025-04-10T13:47:46.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "005Hn00000JKgf4IAD",
+      "createdByName": "Hemanth Tanguturi",
+      "createdDate": "2025-04-10T12:39:49.000Z",
+      "fileName": "sites/old_prof.site",
+      "fullName": "old_prof",
+      "id": "0DMHn000000E5V5OAK",
+      "lastModifiedById": "005Hn00000JKgf4IAD",
+      "lastModifiedByName": "Hemanth Tanguturi",
+      "lastModifiedDate": "2025-04-10T13:47:46.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "005Hn00000JKgf4IAD",
+      "createdByName": "Hemanth Tanguturi",
+      "createdDate": "2025-04-10T12:39:49.000Z",
+      "fileName": "sites/SDO_Consumer.site",
+      "fullName": "SDO_Consumer",
+      "id": "0DMHn000000E5V1OAK",
+      "lastModifiedById": "005Hn00000JKgf4IAD",
+      "lastModifiedByName": "Hemanth Tanguturi",
+      "lastModifiedDate": "2025-04-10T13:47:46.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "005Hn00000JKgf4IAD",
+      "createdByName": "Hemanth Tanguturi",
+      "createdDate": "2025-04-10T12:39:49.000Z",
+      "fileName": "sites/sfpwebhook.site",
+      "fullName": "sfpwebhook",
+      "id": "0DMHn000000E5VAOA0",
+      "lastModifiedById": "005Hn00000JKgf4IAD",
+      "lastModifiedByName": "Hemanth Tanguturi",
+      "lastModifiedDate": "2025-04-10T14:09:14.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "005Hn00000JKgf4IAD",
+      "createdByName": "Hemanth Tanguturi",
+      "createdDate": "2025-04-10T14:22:56.000Z",
+      "fileName": "sites/ESW_SDO_Messaging_for_Web_1744294973802.site",
+      "fullName": "ESW_SDO_Messaging_for_Web_1744294973802",
+      "id": "0DMHn000000bslfOAA",
+      "lastModifiedById": "005Hn00000JKgf4IAD",
+      "lastModifiedByName": "Hemanth Tanguturi",
+      "lastModifiedDate": "2025-04-10T14:23:36.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "005Hn00000JKgf4IAD",
+      "createdByName": "Hemanth Tanguturi",
+      "createdDate": "2025-04-10T12:39:49.000Z",
+      "fileName": "sites/OldPartner1.site",
+      "fullName": "OldPartner1",
+      "id": "0DMHn000000E5V3OAK",
+      "lastModifiedById": "005Hn00000JKgf4IAD",
+      "lastModifiedByName": "Hemanth Tanguturi",
+      "lastModifiedDate": "2025-04-10T13:47:46.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "005Hn00000JKgf4IAD",
+      "createdByName": "Hemanth Tanguturi",
+      "createdDate": "2025-04-10T12:39:49.000Z",
+      "fileName": "sites/SDO_B2B_Commerce_Enhanced.site",
+      "fullName": "SDO_B2B_Commerce_Enhanced",
+      "id": "0DMHn000000E5V6OAK",
+      "lastModifiedById": "005Hn00000JKgf4IAD",
+      "lastModifiedByName": "Hemanth Tanguturi",
+      "lastModifiedDate": "2025-04-10T13:53:10.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "005Hn00000JKgf4IAD",
+      "createdByName": "Hemanth Tanguturi",
+      "createdDate": "2025-04-10T12:39:49.000Z",
+      "fileName": "sites/SDO_Partner_Central.site",
+      "fullName": "SDO_Partner_Central",
+      "id": "0DMHn000000E5VOOA0",
+      "lastModifiedById": "005Hn00000JKgf4IAD",
+      "lastModifiedByName": "Hemanth Tanguturi",
+      "lastModifiedDate": "2025-04-10T13:47:46.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "005Hn00000JKgf4IAD",
+      "createdByName": "Hemanth Tanguturi",
+      "createdDate": "2025-04-10T12:39:49.000Z",
+      "fileName": "sites/OldProf3.site",
+      "fullName": "OldProf3",
+      "id": "0DMHn000000E5VLOA0",
+      "lastModifiedById": "005Hn00000JKgf4IAD",
+      "lastModifiedByName": "Hemanth Tanguturi",
+      "lastModifiedDate": "2025-04-10T13:47:46.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "005Hn00000JKgf4IAD",
+      "createdByName": "Hemanth Tanguturi",
+      "createdDate": "2025-04-10T12:39:49.000Z",
+      "fileName": "sites/SDO_Professional.site",
+      "fullName": "SDO_Professional",
+      "id": "0DMHn000000E5VNOA0",
+      "lastModifiedById": "005Hn00000JKgf4IAD",
+      "lastModifiedByName": "Hemanth Tanguturi",
+      "lastModifiedDate": "2025-04-10T13:47:46.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "005Hn00000JKgf4IAD",
+      "createdByName": "Hemanth Tanguturi",
+      "createdDate": "2025-04-10T12:39:49.000Z",
+      "fileName": "sites/Do_Not_Use_SDO_B2B_Commerce.site",
+      "fullName": "Do_Not_Use_SDO_B2B_Commerce",
+      "id": "0DMHn000000E5V2OAK",
+      "lastModifiedById": "005Hn00000JKgf4IAD",
+      "lastModifiedByName": "Hemanth Tanguturi",
+      "lastModifiedDate": "2025-04-10T13:47:46.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "005Hn00000JKgf4IAD",
+      "createdByName": "Hemanth Tanguturi",
+      "createdDate": "2025-04-10T12:39:49.000Z",
+      "fileName": "sites/SDO_D2C_Commerce_Enhanced.site",
+      "fullName": "SDO_D2C_Commerce_Enhanced",
+      "id": "0DMHn000000E5V7OAK",
+      "lastModifiedById": "005Hn00000JKgf4IAD",
+      "lastModifiedByName": "Hemanth Tanguturi",
+      "lastModifiedDate": "2025-04-10T13:47:46.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "005Hn00000JKgf4IAD",
+      "createdByName": "Hemanth Tanguturi",
+      "createdDate": "2025-04-10T14:06:05.000Z",
+      "fileName": "sites/SFTelegramSite.site",
+      "fullName": "SFTelegramSite",
+      "id": "0DMHn000000bslaOAA",
+      "lastModifiedById": "005Hn00000JKgoIIAT",
+      "lastModifiedByName": "Vikash Sharma",
+      "lastModifiedDate": "2025-04-16T17:08:07.000Z",
+      "type": "CustomSite"
+    }
+  ]
+}
