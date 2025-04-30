@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+   <labels>
+        <fullName>Telegram_Bot_API_key</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Telegram API Key</shortDescription>
+        <value>8084973196:AAFoZTsF6LDag6HeE5dMD1xQbvazn8zFYr8</value>
+    </labels>
+  </CustomLabels>
